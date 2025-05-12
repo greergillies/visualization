@@ -8,22 +8,38 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
+    Excel and then additional formatting in Powerpoint to make labels.
 
     > Who is your intended audience? 
+    People who live in Toronto.
     
     > What information or message are you trying to convey with your visualization? 
+   
+    The most common communicable diseases in Toronto from the previous 2 years. I broke down the diseases by disease type (e.g., STD and Bloodborne, Vaccine Preventable) and then most common diseases (>200 cases) within the top two categories. The visualization shows that sexually transmitted/bloodborne diseases are the most common, and their rates are similar across the two year period. The visualization also shows that though vaccine preventable illnesses are the second most prevalent disease category, this is primarily driven by the number of COVID cases in 2023.  
     
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
     
+    I decided on a bar graph because I had frequency data grouped into discrete categories. 
+    
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+   
+    They're not really reproducible unless you go into excel and create the graphs again (though I do provide the summary data). 
     
     > How did you ensure that your data visualization is accessible?  
     
-    > Who are the individuals and communities who might be impacted by your visualization?  
+    I used a sans-serif font, and to differentiate between the main grouping variable I used a pattern rather than colour. I did use color to highlight which other categories I would be further exploring, so I chose colors that are color-blind friendly.
+    
+    > Who are the individuals and communities who might be impacted by your visualization? 
+
+    People who want to know what diseases are most common in Toronto and if there were any outbreaks of certain diseases in the past two years.
     
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
+
+    I did not show the rates of every disease in the database because there were too many to fit on on page. So, I chose the most prevalent diseases, since those should be of interest to the general public.
     
     > What ‘underwater labour’ contributed to your final data visualization product?
+
+    The doctors/nurses/lab workers who did all the tests/diagnostics. I'm not sure how the data is actually collected, but there would have to be someone/a team of people who collect the disease prevalence data from different hospitals in Toronto. There is another team of people who work for the city who compile the data and make the final spreadsheet.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
