@@ -19,7 +19,7 @@
     
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
     
-    I decided on a bar graph because I had frequency data grouped into discrete categories. 
+    I decided on a bar graph because I had frequency data grouped into discrete categories.  
     
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
    
@@ -40,6 +40,8 @@
     > What ‘underwater labour’ contributed to your final data visualization product?
 
     The doctors/nurses/lab workers who did all the tests/diagnostics. I'm not sure how the data is actually collected, but there would have to be someone/a team of people who collect the disease prevalence data from different hospitals in Toronto. There is another team of people who work for the city who compile the data and make the final spreadsheet.
+
+Source: https://open.toronto.ca/dataset/monthly-communicable-disease-surveillance-data/
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 

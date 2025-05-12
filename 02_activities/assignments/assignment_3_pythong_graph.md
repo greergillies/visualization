@@ -41,6 +41,10 @@
 
     The dataset was from StatsCan, but the link to the original source did not work. The data appears to be from the Labor Force Survey. There were employees of StatsCan who did the survey in person or over the phone (most respondents filled it out online). The data was cleaned and analysed by employees of StatsCan, and was then uploaded into a publicly available repository. 
 
+
+Source: https://data.ontario.ca/dataset/wages-by-education-level
+
+
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
  
