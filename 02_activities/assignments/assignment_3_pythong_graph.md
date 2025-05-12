@@ -19,27 +19,27 @@
     
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
     
-    I decided on a bar graph because I had frequency data grouped into discrete categories. 
+    I used a line graph because I was showing changes over time, and since I had two other grouping variables I wanted to look at (education and immigration status) I used multiple plots (split by education), so I used the relplot from the seaborn package. I made sure the sub-plots were in the correct order (education level) using col_order. I changed the labels on the sub-plots and added a general title.
     
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
    
-    They're not really reproducible unless you go into excel and create the graphs again (though I do provide the summary data). 
+    The code just needs to be re-run, the graphs are 100% reproducible.
     
     > How did you ensure that your data visualization is accessible?  
     
-    I used a sans-serif font, and to differentiate between the main grouping variable I used a pattern rather than colour. I did use color to highlight which other categories I would be further exploring, so I chose colors that are color-blind friendly.
+    I used a sans-serif font, and I used both a color and a line pattern to distinguish different groups. I did both because there were 5 groups, so adding more features (color + line type) to look for can be helpful. 
     
     > Who are the individuals and communities who might be impacted by your visualization? 
 
-    People who want to know what diseases are most common in Toronto and if there were any outbreaks of certain diseases in the past two years.
+    People who are interested in or might be impacted by pay discrepancies in the workplace.
     
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
 
-    I did not show the rates of every disease in the database because there were too many to fit on on page. So, I chose the most prevalent diseases, since those should be of interest to the general public.
+    I only looked at the past 10 years of data, and I only looked at a certain age group. This was partially done becuase the data file itself was not very clear (multiple age categories all overlapped) but also because I only wanted to examine only some of the included variables so the visualization would be interpretable.
     
     > What ‘underwater labour’ contributed to your final data visualization product?
 
-    The doctors/nurses/lab workers who did all the tests/diagnostics. I'm not sure how the data is actually collected, but there would have to be someone/a team of people who collect the disease prevalence data from different hospitals in Toronto. There is another team of people who work for the city who compile the data and make the final spreadsheet.
+    The dataset was from StatsCan, but the link to the original source did not work. The data appears to be from the Labor Force Survey. There were employees of StatsCan who did the survey in person or over the phone (most respondents filled it out online). The data was cleaned and analysed by employees of StatsCan, and was then uploaded into a publicly available repository. 
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
