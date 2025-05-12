@@ -10,18 +10,35 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
 
+      Bad Visualization
+      I picked this graph from the Washington Post (see jpeg "graph_1") (Van Dam & Bronner, 2024). There's a couple issues.
+      First, it's supposed to show men vs women, but it's not labeled which side of the graph is what group (left is women based on the title). 
+      The main takeaway from the graph should be "there are more young women who vote democrat than young men" but the graph does not directly compare men to women. The viewer has to match across the two blue lines to make this comparison. It's not a very difficult comparison, but still. More work for the viewer.
+      These are density plots, so the area under the curves would add up to 100%, but it's not immediately clear if these two graphs are sharing the x axis (but each graph seaparetly adds up to 100%) or if both graphs together make up the total. There is some text at the top that specifies it's the latter but this should be presented on the Y axis line (e.g., % total electorate).
+      The x axis also is missing a label, and the interval is weird (19 years in between each point). 
+      The data also isn't on who has voted, but who has registered with a particular party. You do not need to be registered with a party to vote in anything other than a primary, so the graph title is somewhat misleading.
+    
 
-
-
-
-
+      Good Visualization
+      I picked some plots from a an attention paper, Gaspelin et al., (2015). I liked these graphs because they use a consistent color scheme that also matches the figure for the task design, so there is a consistent color story. All the plots are presented the same way (reaction time followed by accuracy), and all use the same x and y axes labels/intervals, so you could compare across experiments if you wanted. The most important differences on the graph are labeled (as magnitude/direction of the difference) so no mental math is needed. 
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+    Bad Visualization
+       It might make more sense to have two plots, one showing democratic and the other republican, with line type (solid, dashed) being used to refer to men and women. You could still keep the color grouping for lib/con even though it wouldn't be necessary, but viewers might expect libs to be presented in blue and cons in red. 
+       Could also have the comparison between men/women for the democratic votes as some sort of insert paired with the full graph. This would highlight the main takeaway without hiding the other data.
+
+       Good Visualization
+       Both the reaction time and accuracy graphs should be the same graph type (line or bar). There's no real reason to have them be of two types. Similarly, both graphs should share the same color scheme, as the bar graph uses color (to match the task design diagram) but the line graph uses shape of the point and line type.
+
+       References:
+       Gaspelin, N., Leonard, C. J., & Luck, S. J. (2015). Direct evidence for active suppression of salient-but-irrelevant sensory inputs. Psychological science, 26(11), 1740-1750. https://doi.org/10.1177/09567976155979
+       
+       Van Dam, A. and Bronner, L. (2024, September 13). How Republican or Democratic is your name? The Washington Post https://archive.is/20250127220601/https://www.washingtonpost.com/business/2024/09/13/popular-names-republican-democrat/
+
+
 
 
 
